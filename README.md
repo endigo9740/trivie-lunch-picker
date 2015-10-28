@@ -4,4 +4,4 @@ This was a fun side project I whipped up when starting to learn Angular around a
 
 ## Demo
 
-[See It Live!](http://www.endigodesign.com/trivie/angular/index.html)
+[See It Live!](http://bit.ly/1PTqT3h)
